@@ -51,6 +51,7 @@ header nav ul{
    float: left;
 }
 #logo{
+    margin-top: 30px;
     width: 65% ;
     height: 65%;  
     float: left;
@@ -123,7 +124,7 @@ header nav ul{
   }
   
   /* If the screen size is 600px wide or less, set the font-size of <div> to 30px */
-  @media screen and (max-width: 800px) {
+  @media screen and (max-width: 720px) {
     header {
       font-size: 10px;
     }
