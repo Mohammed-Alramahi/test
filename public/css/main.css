@@ -104,7 +104,7 @@ header nav ul{
     margin-top: 20px;
 
 }
-@media screen and (min-width: 600px) {
+@media screen and (min-width: 820px) {
     header {
         font-size: 16px;
       }
@@ -123,7 +123,7 @@ header nav ul{
   }
   
   /* If the screen size is 600px wide or less, set the font-size of <div> to 30px */
-  @media screen and (max-width: 600px) {
+  @media screen and (max-width: 800px) {
     header {
       font-size: 10px;
     }
